@@ -1,8 +1,8 @@
 # eat_app
-# 这是一个React app demo
+## 这是一个React app demo
 ----------------------------------------------------------------------------------------------------------------------------------
-## react技术栈
-- react react-router4 redux react-redux
+# react技术栈
+> react react-router4 redux react-redux
 
 ## 初始化package.json
 ```
